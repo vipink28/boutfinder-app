@@ -1,0 +1,15 @@
+{
+  "name": "boutfinder-api",
+  "version": "1.0.0",
+  "description": "Api to find and arrange bouts for boxers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.5.3",
+    "nodemailer": "^6.9.5"
+  }
+}
